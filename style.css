@@ -16,3 +16,10 @@ header a{
 	color: aliceblue;
 	text-decoration: none;
 }
+main .slide {
+	background-color: url("imagens/banner-principal.png");
+	width: 100%;
+	height: 100%;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
