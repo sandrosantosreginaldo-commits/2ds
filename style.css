@@ -22,4 +22,9 @@ main .slide {
 	height: 100%;
 	background-repeat: no-repeat;
 	background-size: cover;
+    background-size: 50px;
+}
+main .slide h3{
+    color: white;
+    font-size: 40px;
 }
